@@ -1,0 +1,28 @@
+button{
+    width: 50px;
+    height: 50px;
+    border-color: rgb(35, 154, 252) ;
+  
+}
+div table{
+    background-color: rgb(35, 154, 252);
+}
+div #equ{
+    width: 103px;
+}
+.row{
+    padding-top: 50px;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2021/11/10/18/44/mathematics-6784603_640.jpg);
+}
+.row h2{
+    font-family: "New Amsterdam", sans-serif;
+    font-size: 50px;
+    color: rgb(35, 154, 252);
+    background-color: azure;
+    border-radius: 10px;
+}
+.row p{
+    font-family: "Kalam", cursive;
+}
